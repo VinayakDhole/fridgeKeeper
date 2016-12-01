@@ -1,0 +1,19 @@
+current directory: /home/vinayak/Documents/fridgeKeeper/vendor/bundle/gems/bcrypt-3.1.11/ext/mri
+/home/vinayak/.rbenv/versions/2.3.1/bin/ruby -r ./siteconf20161201-7737-3w37c0.rb extconf.rb
+creating Makefile
+
+current directory: /home/vinayak/Documents/fridgeKeeper/vendor/bundle/gems/bcrypt-3.1.11/ext/mri
+make "DESTDIR=" clean
+
+current directory: /home/vinayak/Documents/fridgeKeeper/vendor/bundle/gems/bcrypt-3.1.11/ext/mri
+make "DESTDIR="
+compiling crypt_blowfish.c
+compiling crypt.c
+compiling wrapper.c
+compiling crypt_gensalt.c
+compiling bcrypt_ext.c
+linking shared-object bcrypt_ext.so
+
+current directory: /home/vinayak/Documents/fridgeKeeper/vendor/bundle/gems/bcrypt-3.1.11/ext/mri
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bcrypt_ext.so ./.gem.20161201-7737-1my4s63

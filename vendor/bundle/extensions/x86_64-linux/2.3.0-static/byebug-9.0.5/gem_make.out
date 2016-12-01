@@ -1,0 +1,19 @@
+current directory: /home/vinayak/Documents/fridgeKeeper/vendor/bundle/gems/byebug-9.0.5/ext/byebug
+/home/vinayak/.rbenv/versions/2.3.1/bin/ruby -r ./siteconf20161201-7737-14d2xbm.rb extconf.rb
+creating Makefile
+
+current directory: /home/vinayak/Documents/fridgeKeeper/vendor/bundle/gems/byebug-9.0.5/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /home/vinayak/Documents/fridgeKeeper/vendor/bundle/gems/byebug-9.0.5/ext/byebug
+make "DESTDIR="
+compiling threads.c
+compiling byebug.c
+compiling breakpoint.c
+compiling context.c
+compiling locker.c
+linking shared-object byebug/byebug.so
+
+current directory: /home/vinayak/Documents/fridgeKeeper/vendor/bundle/gems/byebug-9.0.5/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.so ./.gem.20161201-7737-112ao71/byebug
